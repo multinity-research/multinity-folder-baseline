@@ -1,0 +1,5 @@
+# Python-Version
+
+# Libraries-Version
+
+# NOTE: Incase bisa menggunakan pyproject.toml dan setup.py lebih bagus.
